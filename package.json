@@ -1,0 +1,19 @@
+{
+  "name": "consumo-api-rest-js",
+  "version": "1.0.0",
+  "description": "Consume de API REST con Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madays/consumo-API-REST-JS.git"
+  },
+  "author": "@Maday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madays/consumo-API-REST-JS/issues"
+  },
+  "homepage": "https://github.com/Madays/consumo-API-REST-JS#readme"
+}
